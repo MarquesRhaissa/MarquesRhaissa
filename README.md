@@ -1,9 +1,9 @@
 ### Oie... 👋
 
-
+- 👩 My name is Rhaissa Marques
 - 🌱 I’m currently learning HTML, CSS e JS
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love animals, I have 4 cats and 3 geese.
+- ⚡ Fun fact: I love animals, I have 4 cats and 3 geese. 🐱🐱🐱🐱 🦆🦆🦆
 
 ## Estou aprendendo...
 
